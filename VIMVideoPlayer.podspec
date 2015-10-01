@@ -33,7 +33,7 @@ s.authors            = { "Alfie Hanssen" => "alfiehanssen@gmail.com",
   # s.platform     = :ios, "7.0"
 
   #  When using multiple platforms
-  s.ios.deployment_target = "7.0"
+  s.ios.deployment_target = "6.0"
   # s.osx.deployment_target = "10.7"
 
 
